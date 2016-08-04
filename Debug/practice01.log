@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\administrator\dropbox\opengl\visual studio 2015\projects\practice01\main.cpp(2): fatal error C1083: include ファイルを開けません。'GL/glut.h':No such file or directory
